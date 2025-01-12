@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       p5:
-        specifier: ^1.10.0
-        version: 1.10.0
+        specifier: ^1.11.2
+        version: 1.11.2
       toxiclibsjs:
         specifier: ^0.3.3
         version: 0.3.3
@@ -257,8 +257,8 @@ packages:
     engines: {node: ^10 || ^12 || ^13.7 || ^14 || >=15.0.1}
     hasBin: true
 
-  p5@1.10.0:
-    resolution: {integrity: sha512-6cWYBFhnZz7jNC6p1VWvlt3QReMqrRSmO90bgECQIKB9oko2w/sKrOAVMyei5tjIzSYcSY0JHy+BRtSAWq24jQ==}
+  p5@1.11.2:
+    resolution: {integrity: sha512-kvtMTmxJexkbfuaVThg/1JE6iQyS8tTAqGE1UGbfApKUIzDc5hHM23hc08FV3jG0jlNS2En9kqZDb4FrJ8x+kg==}
 
   picocolors@1.0.1:
     resolution: {integrity: sha512-anP1Z8qwhkbmu7MFP5iTt+wQKXgwzf7zTyGlcdzabySa9vd0Xt392U0rVmz9poOaBj0uHJKyyo9/upk0HrEQew==}
@@ -463,7 +463,7 @@ snapshots:
 
   nanoid@3.3.7: {}
 
-  p5@1.10.0: {}
+  p5@1.11.2: {}
 
   picocolors@1.0.1: {}
 
